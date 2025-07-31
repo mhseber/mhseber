@@ -17,7 +17,7 @@
 ## 💼 My Tech Stack  
 
 ### 🧠 Core Skills  
-`HTML5` • `CSS3` • `JavaScript` • `React` • `React Router` • `NextJs` 
+`HTML5` • `CSS3` • `JavaScript` • `React` • `React Router` • `NextJs` •
 `Context API` • `React Hook Form` • `REST API` • `Firebase`
 
 ### 🎨 UI & Styling  
