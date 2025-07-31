@@ -1,7 +1,9 @@
-# 👋 Hi there, I'm Mahamudul Hasan Seber!  
-I'm a passionate **Frontend Developer** from Bangladesh 🇧🇩  
-I specialize in building beautiful, responsive web applications using **React**, **Tailwind CSS**, and modern UI libraries.  
-I enjoy solving real-world problems, crafting smooth user experiences, and continuously learning new web technologies 💻
+# 👋 Hey there! I'm Mahamudul Hasan Seber  
+
+🧑‍💻 Frontend Developer | 🇧🇩 Bangladesh  
+⚡ Tech Stack: React · javascript · UI Libraries  
+🎨 I turn designs into pixel-perfect, responsive websites.  
+🌱 Forever curious & growing with each line of code!
 
 ---
 
@@ -15,7 +17,7 @@ I enjoy solving real-world problems, crafting smooth user experiences, and conti
 ## 💼 My Tech Stack  
 
 ### 🧠 Core Skills  
-`HTML5` • `CSS3` • `JavaScript` • `React` • `React Router`  
+`HTML5` • `CSS3` • `JavaScript` • `React` • `React Router` • `NextJs` 
 `Context API` • `React Hook Form` • `REST API` • `Firebase`
 
 ### 🎨 UI & Styling  
